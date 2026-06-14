@@ -1,13 +1,13 @@
 # DealRoom 🏦
 ### AI-native M&A due diligence workspace
 
-> Built for the **Agents League Hackathon 2026** — Creative Apps track
+> Built for the **Agents League Hackathon 2026** Creative Apps track
 
 ---
 
 ## What is DealRoom?
 
-M&A due diligence is brutally manual. Associates spend weeks reading hundreds of documents — financials, contracts, cap tables, legal filings — hunting for risks that could kill a deal or surface post-close. Teams miss things. Deals go wrong.
+M&A due diligence is brutally manual. Associates spend weeks reading hundreds of documents, financials, contracts, cap tables, legal filings, hunting for risks that could kill a deal or surface post-close. Teams miss things. Deals go wrong.
 
 DealRoom is an AI-native due diligence workspace that turns a folder of documents into an interactive deal intelligence system in minutes.
 

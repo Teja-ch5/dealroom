@@ -22,13 +22,13 @@ Drag and drop PDFs, Word docs, or text files. DealRoom parses, chunks, and index
 Query across all documents in plain English. Get streamed answers with source citations so you can verify every claim.
 
 ### ⚠️ Automatic risk detection
-When an answer surfaces a risk, DealRoom automatically creates an issue card on the Kanban board — no manual tracking needed.
+When an answer surfaces a risk, DealRoom automatically creates an issue card on the Kanban board, no manual tracking needed.
 
 ### 📋 Kanban risk board
 Track open issues, move them through Open → Reviewing → Resolved. Click any card to see the full AI analysis.
 
 ### 📝 One-click deal memo
-Generate a structured deal memo — Executive Summary, Key Risks, Financial Highlights, Recommendation — ready to export as PDF.
+Generate a structured deal memo.Executive Summary, Key Risks, Financial Highlights, Recommendation, ready to export as PDF.
 
 ---
 
@@ -46,7 +46,7 @@ Generate a structured deal memo — Executive Summary, Key Risks, Financial High
 
 ## Built with GitHub Copilot
 
-This entire app was built AI-first using GitHub Copilot. The majority of the codebase — from API route scaffolding to document chunking logic to the drag-and-drop Kanban board — was generated from code comments using Copilot's autocomplete.
+This entire app was built AI-first using GitHub Copilot. The majority of the codebase, from API route scaffolding to document chunking logic to the drag-and-drop Kanban board, was generated from code comments using Copilot's autocomplete.
 
 ---
 
